@@ -1,3 +1,14 @@
+## Getting Started
+
+To get you started you can simply clone the `angular-seed` repository and install the dependencies:
+
+### Prerequisites
+
+You need git to clone the `angular-seed` repository. You can get git from [here][git].
+
+We also use a number of Node.js tools to initialize and test `angular-seed`. You must have Node.js
+and its package manager (npm) installed. You can get them from [here][node].
+
 ### Install Dependencies
 
 We have two kinds of dependencies in this project: tools and Angular framework code. The tools help
