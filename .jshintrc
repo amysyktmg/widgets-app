@@ -1,5 +1,14 @@
 {
   "strict": "global",
+  "bitwise": true,
+  "curly": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "esversion": 5,
+  "maxdepth": 3,
+  "maxcomplexity": 3,
+  "undef": true,
+  "unused": true,
   "globals": {
     // Angular
     "angular": false,

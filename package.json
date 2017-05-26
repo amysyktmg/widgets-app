@@ -14,7 +14,11 @@
     "karma-firefox-launcher": "^0.1.7",
     "karma-jasmine": "^0.3.8",
     "karma-junit-reporter": "^0.4.1",
-    "protractor": "^4.0.9"
+    "protractor": "^4.0.9",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.4"
   },
   "scripts": {
     "postinstall": "bower install",
